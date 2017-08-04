@@ -1,0 +1,21 @@
+{
+  "name": "find-a-doctor",
+  "description": "A website to make a research for the doctor",
+  "main": "index.js",
+  "authors": [
+    "Anna Kuznetsova"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/codingkuzzi/find-a-doctor.git",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "bootstrap": "^3.3.7"
+  }
+}
