@@ -9,7 +9,7 @@ A website where users may enter a medical issue (ie: “sore throat”, "rash", 
 
 ### Setup
 
-To create the necessary databases, launch postgres, then psql, and run the following commands:
+
 
 * _Clone the project from Github._
 * _Navigate to the project folder._ 
